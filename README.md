@@ -2,7 +2,7 @@
 
 Good question, though it could get philosophical... I'm Dionysis! 🖖
 
-I am currently pursuing an Integrated MEng in **Electrical & Computer Engineering** at the **National Technical University of Athens** (NTUA). 
+I am currently pursuing an Integrated MEng in **Electrical & Computer Engineering** at the **National Technical University of Athens**. 
 
 My main areas of interest are: 
 - Embedded Systems
