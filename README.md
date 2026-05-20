@@ -1,15 +1,15 @@
-## 🪐 Who am I
+## 🪐 Hi! I'm Dionysis. 
 
-Good question, though it could get philosophical... I'm Dionysis! 🖖
+Who am I? It could get philosophical... but to keep it grounded: 
 
-I am currently pursuing an Integrated MEng in **Electrical & Computer Engineering** at the **National Technical University of Athens**. 
+I am pursuing an Integrated MEng in **Electrical & Computer Engineering** at the **National Technical University of Athens**. 
 
 My main areas of interest are: 
 - Embedded Systems
 - Digital Signal Processing
-- Satellites & Space Applications
+- Satellite and Space Applications
 - RF Engineering & Antennas
-- Wireless & Optical Communications
+- Wireless and Optical Communications
 
 ## 🛠️ Tech Stack
 
