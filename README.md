@@ -1,13 +1,10 @@
-## 🪐 *Ad astra per aspera*
----
+## 🚀 Who am I
 
-## 🚀 I'm Dionysis! But who am I, really?
+Good question, though it could get philosophical... I'm Dionysis! 🖖
 
-This could get philosophical, but I'll keep it grounded...
+I am currently pursuing a BEng (Integrated MEng) in **Electrical & Computer Engineering** at the **National Technical University of Athens** (NTUA). 
 
-I am currently pursuing my BEng (Integrated MEng) in 🎓 **Electrical & Computer Engineering** at the **National Technical University of Athens** (NTUA), Greece. 
-
-My main areas of interest 🔭 span: 
+My main areas of interest are: 
 - Embedded Systems
 - Digital Signal Processing
 - Satellites & Space Applications
@@ -37,3 +34,6 @@ My main areas of interest 🔭 span:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+---
+
+<p align="center"> <strong><em>🪐Ad astra per aspera</em></strong> </p>
