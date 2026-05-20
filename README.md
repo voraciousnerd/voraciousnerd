@@ -117,4 +117,32 @@ BEng + Integrated MEng in Electrical & Computer Engineering
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-read
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🛰️ Currently Exploring
+
+```text
+DSP • RF Systems • Optical Communications
+Embedded Systems • Linux • Scientific Computing
+Antennas • Signal Processing • Space Electronics
