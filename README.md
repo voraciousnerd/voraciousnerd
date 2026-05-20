@@ -1,7 +1,5 @@
-<p align="left">
-  <strong><em>🪐Ad astra per aspera</em></strong>
-</p>
-
+## 🪐 *Ad astra per aspera*
+On my way to becoming a Starfleet engineer 🖖
 ---
 
 ## 🚀 Who am I?
@@ -12,7 +10,13 @@ I am currently pursuing my BEng (Integrated MEng) in 🎓 Electrical & Computer 
 
 My interests span embedded systems, hardware and electronics, and extend into DSP, wireless and optical communications.
 
----
+## 🔭 Areas of Interest
+
+- Embedded Systems
+- Digital Signal Processing
+- Satellites & Space Applications
+- RF Engineering & Antennas
+- Wireless & Optical Communications
 
 ## 🛠️ Tech Stack
 
@@ -36,14 +40,4 @@ My interests span embedded systems, hardware and electronics, and extend into DS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## 🔭 Main Sources of Curiosity
-
-- Embedded Systems
-- Digital Signal Processing
-- Satellites & Space Applications
-- RF Engineering & Antennas
-- Wireless & Optical Communications
 
