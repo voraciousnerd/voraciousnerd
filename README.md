@@ -1,4 +1,4 @@
-## 🚀 Who am I
+## 🛰️ Who am I
 
 Good question, though it could get philosophical... I'm Dionysis! 🖖
 
