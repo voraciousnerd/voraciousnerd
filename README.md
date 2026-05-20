@@ -1,15 +1,16 @@
-<p align="center">
-  <i>Ad astra per aspera.</i>
+<p align="left">
+  <strong><em>🪐Ad astra per aspera</em></strong>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Who am I?
 
-🎓 Electrical & Computer Engineering student at NTUA  
-📡 Interested in Telecommunications, DSP, RF Systems, Embedded Hardware & Space Electronics  
-🛰️ Passionate about antennas, signal processing, wireless systems, and scientific computing  
-🔬 Currently exploring optical communications, secure AI inference, and RF simulation
+This could get philosophical, but I'll keep it grounded...
+
+I am currently pursuing my BEng (Integrated MEng) in 🎓 Electrical & Computer Engineering at the National Technical University of Athens (NTUA), Greece.
+
+My interests span embedded systems, hardware and electronics, and extend into DSP, wireless and optical communications.
 
 ---
 
@@ -23,12 +24,12 @@
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/AVR_Assembly-6E4C13?style=for-the-badge)
 
-### RF / Electronics / EDA
+### EDA / Electronics / RF
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge)
+![LTSpice](https://img.shields.io/badge/LTspice-A00000?style=for-the-badge)
+![Microwind](https://img.shields.io/badge/Microwind-0055A4?style=for-the-badge)
 ![HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge)
 ![ADS](https://img.shields.io/badge/Keysight_ADS-BD1E1E?style=for-the-badge)
-![LTSpice](https://img.shields.io/badge/LTspice-A00000?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge)
-![Microwind](https://img.shields.io/badge/Microwind-0055A4?style=for-the-badge)
 
 ### Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -38,111 +39,11 @@
 
 ---
 
-## 📚 Education
+## 🔭 Main Sources of Curiosity
 
-🎓 National Technical University of Athens (NTUA)  
-BEng + Integrated MEng in Electrical & Computer Engineering  
-📈 GPA: 9.15 / 10
-
----
-
-## 🔭 Current Interests
-
-- Digital Signal Processing
-- Wireless Communications
-- RF Engineering & Antennas
-- Optical Communications
 - Embedded Systems
-- Hardware Acceleration
-- Space Electronics & Telemetry
-- Scientific Computing
+- Digital Signal Processing
+- Satellites & Space Applications
+- RF Engineering & Antennas
+- Wireless & Optical Communications
 
----
-
-## 🧪 Featured Projects
-
-### 📡 Rocket Telemetry Antenna Modeling
-- Simulated λ/2 dipole antennas at 2.4 GHz and 433 MHz using Ansys HFSS
-- Studied telemetry performance on spinning airframes
-- Optimized omnidirectional behavior for aerospace applications
-
-### 🌐 Chromatic Dispersion Compensation in Optical Systems
-- FIR-based DSP compensation for optical fiber links up to 400 km
-- Simulated OOK and PAM-4 transmission systems
-- BER and eye diagram analysis
-
-### 🧠 Secure DNN Inference on Resource-Limited Platforms
-- Investigated ResNet robustness under memory soft errors
-- Simulated ECC protection mechanisms
-- Evaluated precision vs resilience trade-offs
-
-### 🎵 Voice & Music Signal Analysis
-- Frequency-domain signal analysis using DFT
-- Designed low-pass and band-pass filters
-- Fourier reconstruction techniques
-
----
-
-## 🏛️ Leadership & Volunteering
-
-### IEEE NTUA Student Branch — ComSoc Chair
-- Revived inactive Communications Society chapter
-- Organizing lectures on telecommunications and antennas
-
-### Athens Science Festival
-- Guided robotics workshops for students using LEGO systems
-
-### Athens Digital Arts Festival
-- Exhibition assistant for interactive circuitry installations
-
----
-
-## 📜 Certifications
-
-- IBM — Basics of Quantum Information
-- Cisco — Introduction to Cybersecurity
-- SciCo — LEGO Education SPIKE Seminar
-
----
-
-## 🌍 Languages
-
-🇬🇷 Greek — Native  
-🇬🇧 English — C2  
-🇩🇪 German — B2  
-🇩🇰 Danish — A2
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🛰️ Currently Exploring
-
-```text
-DSP • RF Systems • Optical Communications
-Embedded Systems • Linux • Scientific Computing
-Antennas • Signal Processing • Space Electronics
