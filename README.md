@@ -1,4 +1,4 @@
-## 🛰️ Who am I
+## 🪐 Who am I
 
 Good question, though it could get philosophical... I'm Dionysis! 🖖
 
@@ -36,4 +36,4 @@ My main areas of interest are:
 
 ---
 
-<p align="center"> <strong><em>🪐Ad astra per aspera</em></strong> </p>
+<p align="center"> <strong><em> 🌠 Ad astra per aspera</em></strong> </p>
