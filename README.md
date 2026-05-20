@@ -1,17 +1,13 @@
 ## 🪐 *Ad astra per aspera*
-On my way to becoming a Starfleet engineer 🖖
 ---
 
-## 🚀 Who am I?
+## 🚀 I'm Dionysis! But who am I, really?
 
 This could get philosophical, but I'll keep it grounded...
 
-I am currently pursuing my BEng (Integrated MEng) in 🎓 Electrical & Computer Engineering at the National Technical University of Athens (NTUA), Greece.
+I am currently pursuing my BEng (Integrated MEng) in 🎓 **Electrical & Computer Engineering** at the **National Technical University of Athens** (NTUA), Greece. 
 
-My interests span embedded systems, hardware and electronics, and extend into DSP, wireless and optical communications.
-
-## 🔭 Areas of Interest
-
+My main areas of interest 🔭 span: 
 - Embedded Systems
 - Digital Signal Processing
 - Satellites & Space Applications
