@@ -1,4 +1,4 @@
-## 🪐 Hi! I'm Dionysis. 
+## 🪐 Hi! I'm Dionysis
 
 Who am I? It could get philosophical... but to keep it grounded: 
 
